@@ -1,7 +1,10 @@
 # OSINT/Bad Historial Design
 Author: Hartanto
+
 Difficulty: Easy
-Description: 
+
+Description:
+ 
 So, Lewis used to say to me that he had a website. I doubt there is anything there, but let's check it out.
 
 We are given the following link:
